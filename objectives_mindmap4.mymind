@@ -1,0 +1,164 @@
+{
+  "root": {
+    "id": "mihylbmz",
+    "text": "My Mind Map",
+    "notes": "",
+    "layout": "map",
+    "children": [
+      {
+        "id": "Incorporating LLC in US For the product parent",
+        "text": "Incorporating LLC in US For the product parent",
+        "notes": "",
+        "layout": "map",
+        "children": [
+          {
+            "id": "67a3cf5e",
+            "text": "Applying For Us B1 visa To be ready for travel anytime",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          },
+          {
+            "id": "e982fce5",
+            "text": "Monetize/maximize brand reach Using data and other pillars [ Commercialization, Productization, Operations / all administrative works ] To monetize",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          },
+          {
+            "id": "1ab45",
+            "text": "Building Leika To disrupt the data insights in pharmacy RWE R&D and Commercial domain",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          },
+          {
+            "id": "2ab45",
+            "text": "Building The website For the Incorporation and the product details",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          },
+          {
+            "id": "3ab45",
+            "text": "Reservation Of the Domain For website",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "T - Add more security for the product",
+        "text": "T - Add more security for the product",
+        "notes": "",
+        "layout": "map",
+        "children": [
+          {
+            "id": "9af5dc8e",
+            "text": "T - Testing the build regularly to ensure security",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          },
+          {
+            "id": "af6ebdca",
+            "text": "T - Creating new test cases to ensure security",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "Improving OKR So as to make it to the ZERO process usable state!",
+        "text": "Improving OKR So as to make it to the ZERO process usable state!",
+        "notes": "",
+        "layout": "map",
+        "children": [
+          {
+            "id": "367d17fe",
+            "text": "Change The OKR logo To make it appealing",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "Building Leika To disrupt the data insights in pharmacy RWE R&D and Commercial domain",
+        "text": "Building Leika To disrupt the data insights in pharmacy RWE R&D and Commercial domain",
+        "notes": "",
+        "layout": "map",
+        "children": [
+          {
+            "id": "6c341136",
+            "text": "Featuring [Must] Capability to export to put data for presentation, action invoker etc...",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          },
+          {
+            "id": "acbed3ed",
+            "text": "Featuring Bio update and badge To show the maturity and data update correctness",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          },
+          {
+            "id": "5ab45",
+            "text": "Featuring  [Could] Data insights that can be a content or case study for ivyleague health are MBA or any relevant courses",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "T - Testing the build regularly to ensure security",
+        "text": "T - Testing the build regularly to ensure security",
+        "notes": "",
+        "layout": "map",
+        "children": [
+          {
+            "id": "87b64c6c",
+            "text": "T - Setting up Test environment to test",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "Featuring Bio update and badge To show the maturity and data update correctness",
+        "text": "Featuring Bio update and badge To show the maturity and data update correctness",
+        "notes": "",
+        "layout": "map",
+        "children": [
+          {
+            "id": "d001a307",
+            "text": "Receiving Storylinedemo from Nakul To build the feature",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "T - Setting up Test environment to test",
+        "text": "T - Setting up Test environment to test",
+        "notes": "",
+        "layout": "map",
+        "children": [
+          {
+            "id": "b470ae09",
+            "text": "T - Testing automatically in order to save time",
+            "notes": "",
+            "layout": "map",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}
